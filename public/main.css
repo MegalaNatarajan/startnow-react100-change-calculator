@@ -1,0 +1,31 @@
+body{
+    margin:0 5px;
+}
+header {
+    border-bottom : 1px solid #ffffff;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+label {
+    text-align: left;
+}
+span {
+    float: left;
+    width: 100%;
+}
+input {
+    clear:left;
+    width: 80%;
+    margin-bottom: 3px;
+}
+button {
+    width:60%;
+    margin-top: 5px;
+}
+div {
+    margin-left:4px;
+    margin-right:4px;
+}
+p {
+    text-align: center;
+}
